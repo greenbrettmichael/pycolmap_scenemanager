@@ -4,7 +4,7 @@ sys.path.append("..")
 import numpy as np
 import os
 
-from pycolmap import SceneManager
+from pycolmap_scenemanager import SceneManager
 
 
 #-------------------------------------------------------------------------------
